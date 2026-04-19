@@ -114,7 +114,7 @@ function SpotlightCard({
 
 export default function SkillsSection() {
   return (
-    <section id="skills" className="py-24 px-4 scroll-mt-20 relative overflow-hidden">
+    <section id="skills" className="py-12 md:py-16 px-4 scroll-mt-20 relative overflow-hidden">
       {/* Ambient background */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-[20%] left-[-10%] w-[500px] h-[500px] rounded-full bg-purple-500/5 blur-[120px]" />
@@ -138,7 +138,7 @@ export default function SkillsSection() {
         </div>
 
         {/* Categories Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-24">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
           {skills.map((skillGroup, index) => (
             <ScrollAnimation
               key={skillGroup.category}

@@ -11,7 +11,7 @@ export default function AboutSection() {
   return (
     <section
       id="about"
-      className="py-24 px-4 scroll-mt-20 relative overflow-hidden"
+      className="py-12 md:py-16 px-4 scroll-mt-20 relative overflow-hidden"
     >
       {/* Ambient background */}
       <div className="absolute inset-0 pointer-events-none">

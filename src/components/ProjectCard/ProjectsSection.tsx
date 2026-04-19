@@ -13,7 +13,7 @@ export const ProjectsSection: React.FC = () => {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null)
 
   return (
-    <section className="py-20 px-4 relative overflow-hidden">
+    <section className="py-12 md:py-16 px-4 relative overflow-hidden">
       {/* Gradient Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-purple-500/5 to-transparent pointer-events-none"></div>
       
