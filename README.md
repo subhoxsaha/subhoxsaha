@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://subhoxsaha.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Subhrajit!+👋;Full-Stack+Developer+💻;IoT+Systems+Engineer+⚙️" alt="Subhrajit Saha" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=45&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Subhrajit!;Full-Stack+Developer;IoT+Systems+Engineer" alt="Subhrajit Saha" />
   </a>
 
   <p>Based in India, building innovative solutions that combine hardware and software.</p>
