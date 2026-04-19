@@ -1,0 +1,40 @@
+.cursor {
+  position: fixed;
+  width: 12px;
+  height: 12px;
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: lighten;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.6);
+  transition: all 0.1s ease-out;
+}
+
+.cursor.hovering {
+  width: 24px;
+  height: 24px;
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.8), 0 0 40px rgba(236, 72, 153, 0.4);
+}
+
+.cursorGlow {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  border: 2px solid rgba(168, 85, 247, 0.3);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: lighten;
+  transition: all 0.2s ease-out;
+}
+
+.cursorGlow.hovering {
+  width: 48px;
+  height: 48px;
+  border: 2px solid rgba(168, 85, 247, 0.5);
+  box-shadow: inset 0 0 15px rgba(168, 85, 247, 0.2);
+}
