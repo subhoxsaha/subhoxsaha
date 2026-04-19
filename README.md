@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Subhrajit!%20%F0%9F%91%8B&fontSize=40&animation=fadeIn" width="100%" />
+  <a href="https://subhoxsaha.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Subhrajit!+👋;Full-Stack+Developer+💻;IoT+Systems+Engineer+⚙️" alt="Subhrajit Saha" />
+  </a>
 
-  <h3>Full-Stack Developer | IoT Engineer</h3>
-  <p>Building innovative solutions that combine hardware and software.</p>
+  <p>Based in India, building innovative solutions that combine hardware and software.</p>
 
   <p align="center">
     <a href="https://linkedin.com/in/subhoxsaha" target="_blank">
