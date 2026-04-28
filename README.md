@@ -58,8 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhoxsaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
----
-
 <p align="center">
-  <i>This repository also hosts the source code for my personal portfolio! Built with robust design systems and next-generation glassmorphic UI.</i>
+  -----------
 </p>
